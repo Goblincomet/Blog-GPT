@@ -17,7 +17,7 @@ Usage
 
 To use this application, you can follow the instructions below:
 
-1.  Clone the repository from [https://github.com/kevinnadar22/Blog-GPT](https://github.com/kevinnadar22/Blog-GPT)
+1.  Clone the repository from [https://github.com/Goblincomet/Blog-GPT](https://github.com/kevinnadar22/Blog-GPT)
 2.  Install the required dependencies using the following command:
 
 ```bash
@@ -57,5 +57,3 @@ Credits
 -------
 
 This application was built using Streamlit and the OpenAI GPT-3.5 API. Special thanks to the Streamlit team for providing an easy-to-use platform for building web applications.
-
-Author: Kevin Nadar GitHub: [https://github.com/kevinnadar22](https://github.com/kevinnadar22)
